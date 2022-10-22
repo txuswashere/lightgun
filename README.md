@@ -142,3 +142,40 @@ List of gun games
 ![arcade](https://github.com/txuswashere/lightgun/raw/main/lightgun/2006HouseOfTheDead4Special,The2.jpg "arcade")
 ![arcade](https://github.com/txuswashere/lightgun/raw/main/lightgun/2006HouseOfTheDead4Special,The3.jpg "arcade")
 ![arcade](https://github.com/txuswashere/lightgun/raw/main/lightgun/2006HouseOfTheDead4Special,The4.jpg "arcade")
+
+
+
+# ARCADE
+## Arcade ARTWORK
+* https://github.com/txuswashere/arcade-roms
+* https://github.com/txuswashere/roms-MAME
+
+* https://github.com/txuswashere/lightgun
+
+
+## SONY
+* https://github.com/txuswashere/PSX
+
+# NINTENDO
+## SNES
+* https://github.com/txuswashere/SNES-Classic-Mini
+* https://github.com/txuswashere/SNES
+* https://github.com/txuswashere/Super-Nintendo
+
+## NES
+* https://github.com/txuswashere/NES-Classic-Mini
+* https://github.com/txuswashere/NES
+* https://github.com/txuswashere/Nintendo-NES
+
+
+# SEGA 
+
+* https://github.com/txuswashere/Sega-Genesis
+* https://github.com/txuswashere/Sega-MegaDrive
+* https://github.com/txuswashere/Genesis
+* https://github.com/txuswashere/MegaDrive
+
+* https://github.com/txuswashere/Sega32X
+* https://github.com/txuswashere/Sega-32X
+
+* https://github.com/txuswashere/MasterSystem
